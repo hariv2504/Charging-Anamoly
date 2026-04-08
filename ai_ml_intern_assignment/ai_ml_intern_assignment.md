@@ -1,4 +1,4 @@
-# ChargePoint - AI/ML Intern (NOC Services Automation)
+# AI/ML Intern 
 ## Take‑Home Technical Exercise - Candidate Instructions
 
 ## 📌 Overview
